@@ -1,0 +1,19 @@
+ --- Welcome to InstaCMD ---
+Usage:
+./insta.sh
+
+Updating:
+./steamcmd.sh +runscript <update_file.txt>
+
+Unistalling:
+./unistall.sh
+
+Video-Tutorial:
+Coming soon...
+
+Bug-Reports to "playMAXIME12@gmail.com"
+
+TO-DO:
+- Windows Version
+- More games
+- Make it more userfriendly (!Important!)
